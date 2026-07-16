@@ -49,7 +49,7 @@ The objective of SmartQ is to reduce waiting time by allowing users to reserve a
 > Add your application preview image here.
 
 ## 🔗 Figma Design
-[View SmartQ Figma Design](https://www.figma.com/design/HKp6iJJj5iEYfNhOIayXwR/Untitled?node-id=0-1&p=f&t=xmN6XIowWUbUKahC-0)
+[View SmartQ Figma Design](https://www.figma.com/proto/HKp6iJJj5iEYfNhOIayXwR/Untitled?node-id=0-1&p=f&t=jNRc52m7jypJyZK8-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=20%3A14&fuid=1603654729599134355)
 
 ## 🚀 Future Enhancements
 - Online Appointment Scheduling
